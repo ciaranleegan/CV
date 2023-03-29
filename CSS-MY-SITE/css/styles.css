@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: fantasy, cursive;
+    margin: 50px auto 0px auto;
+    line-height: 2;
+
+
+}
+
+h2 {
+    font-family: fantasy;
+    padding-top: 20px;
+    font-size: 2.5rem;
+
+
+}
+
+h3 {
+    font-family: fantasy;
+    font-size: 2rem;
+
+}
+
+h4 {
+    font-size: 1.2rem;
+
+    font-family: fantasy;
+}
+
+
+.top-container {
+    background-color: white;
+    position: relative;
+    padding-top: 0px;
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.middle-container {
+    background-color: #DF2E38;
+}
+
+.bottom-container {
+    background-color: white;
+    padding-top: 60px;
+    
+}
+
+
+
+.top-cloud {
+    position: fixed;
+    left: 30px;
+    height: 150px;
+    width: 150px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 650px;
+    bottom: 350px;
+    height: 100px;
+    width: 100px;
+}
+
+.wallpaper {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    width: 15%;
+    margin-top: 50px;
+}
+
+
+
+p {
+    font-family: fantasy;
+}
+
+.pathfinder-gif {
+    float: right;
+
+}
+
+.website {
+    font-family: fantasy;
+}
+
+a {
+    color: black;
+}
+
+.hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: black;
+    width: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.first-skills {
+    border-radius: 50%;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.second-skills {
+    border-radius: 50%;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.apex-button {
+    background: #fcfcfc;
+    background-image: -webkit-linear-gradient(top, #fcfcfc, #f70000);
+    background-image: -moz-linear-gradient(top, #fcfcfc, #f70000);
+    background-image: -ms-linear-gradient(top, #fcfcfc, #f70000);
+    background-image: -o-linear-gradient(top, #fcfcfc, #f70000);
+    background-image: linear-gradient(to bottom, #fcfcfc, #f70000);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 24px;
+    padding: auto;
+    text-decoration: none;
+    margin: auto;
+
+}
+
+
+.skill-row {
+    text-align: left;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    
+}
+
+.quote {
+    padding-top: 60px;
+}
+
+.introduction {
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
+}
